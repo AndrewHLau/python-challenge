@@ -32,4 +32,4 @@ print ("Greatest Increase in Profits:")
 print ("Greatest Decrease in Profits:")
 
 # Specify the file to write to
-output_path = os.path.join("..", "output", "new.csv")
+output_path = os.path.join("..", "output", "bank.csv")
